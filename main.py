@@ -1,3 +1,1 @@
-print("I don't want to cry!!!")
-print('It is important')
-print('No changes')
+# here will be parser from crypto site
